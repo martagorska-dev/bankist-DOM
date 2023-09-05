@@ -16,9 +16,12 @@
 Simple landing page.
 
 ## Features
+- Modal windows
 - Smooth scrolling
+- Page navigation
 - Tabbed component
 - Sticky navigation
+- Revealing elements on scroll
 - Lazy loading images
 - Slider component
 
