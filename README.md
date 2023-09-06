@@ -3,7 +3,6 @@
 > Live demo [_here_](https://bankist-dom-martagorska.netlify.app).
 
 ## Table of Contents
-* [General Info](#general-information)
 * [Features](#features)
 * [Technologies Used](#technologies-used)
 * [Screenshots](#screenshots)
@@ -11,9 +10,6 @@
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
-
-## General Information
-Simple landing page.
 
 ## Features
 - Modal windows
