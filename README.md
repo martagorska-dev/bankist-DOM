@@ -1,5 +1,5 @@
 # 💶 BANKIST 💵 
-> Fictional online bank landing page created with Vanilla JavaScript.
+> Simple fictional online bank landing page created with Vanilla JavaScript.
 > Live demo [_here_](https://bankist-dom-martagorska.netlify.app).
 
 ## Table of Contents
@@ -35,7 +35,7 @@
 ## Setup
 1. Clone this repository
    ```
-   git clone https://github.com/martagorska-dev/bankist-arrays
+   git clone https://github.com/martagorska-dev/bankist-DOM
    ```
 3. Open  *index.html*
    
